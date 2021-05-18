@@ -13,7 +13,7 @@ sink(NULL)
 
 # Set file paths
 vars_path <- "./data/bowtie_final_variants.vcf"
-refseq_path <- "./data/kudzu_01Nov2018_Xb0hT.fasta"
+refseq_path <- "./data/kudzu_01Nov2018_Xb0hT.fasta" # this is the path to the HiC genome
 # vars_path <- "/uufs/chpc.utah.edu/common/home/u6033249/Data/Kudzu/bowtie_output/bowtie_final_variants.vcf"
 # refseq_path <- "/uufs/chpc.utah.edu/common/home/u6033249/Data/Kudzu/kudzu_01Nov2018_Xb0hT_oneline.fasta.gz"
 
